@@ -11,7 +11,7 @@ namespace GitMvcCore22.Models
         public string newString { get; set; }
         public DateTime MyProperty { get; set; }
         public int number { get; set; }
-        public int int6 { get; set; }
+        public int conflict { get; set; }
         public string anotherString { get; set; }
     }
 }

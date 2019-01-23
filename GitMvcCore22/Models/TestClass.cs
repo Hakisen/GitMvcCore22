@@ -16,5 +16,6 @@ namespace GitMvcCore22
         public int Count { get; set; }
         public string Description { get; set; }
         public string Faderittan { get; set; }
+        public string Gnu { get; set; }
     }
 }

@@ -7,7 +7,7 @@ namespace GitMvcCore22.Models
 {
     public class AnotherClass
     {
-        public int Int5 { get; set; }
+        public int Int { get; set; }
         List<int> list = new List<int>();
     }
 }

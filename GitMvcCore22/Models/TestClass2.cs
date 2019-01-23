@@ -10,6 +10,7 @@ namespace GitMvcCore22.Models
         //Tillagt av Håkan efter 2:a gemensamma synken
         public int OldProperty { get; set; }
         public int IntProp3 { get; set; }
+        public string NewString { get; set; }
         public string StringProp2 { get; set; }
     }
 }

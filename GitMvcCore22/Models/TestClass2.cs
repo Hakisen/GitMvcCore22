@@ -8,7 +8,7 @@ namespace GitMvcCore22.Models
     public class TestClass2
     {
         //Tillagt av Håkan efter 2:a gemensamma synken
-        public int IntProp { get; set; }
+        public int Newproperty { get; set; }
         public string StringProp { get; set; }
     }
 }

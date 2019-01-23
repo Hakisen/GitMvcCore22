@@ -9,5 +9,7 @@ namespace GitMvcCore22.Models
     {
         List<int> list = new List<int>();
         public string newString { get; set; }
+        public DateTime MyProperty { get; set; }
+        public int number { get; set; }
     }
 }

@@ -15,5 +15,8 @@ namespace GitMvcCore22
         public string Shelf { get; set; }
         public int Count { get; set; }
         public string Description { get; set; }
+
+        //Här har Håkan lagt till en kommentar & en prop efter 2:a synken
+        public int SoldItems { get; set; }
     }
 }

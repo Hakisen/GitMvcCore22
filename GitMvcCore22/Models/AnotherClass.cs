@@ -15,5 +15,6 @@ namespace GitMvcCore22.Models
         public int Capacity { get; set; }
         public int int6 { get; set; }
         public string anotherString { get; set; }
+        public string MoreString { get; set; }
     }
 }

@@ -9,5 +9,6 @@ namespace GitMvcCore22.Models
     {
         public int Int5 { get; set; }
         List<int> list = new List<int>();
+        public string newString { get; set; }
     }
 }

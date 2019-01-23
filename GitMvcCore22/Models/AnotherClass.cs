@@ -7,7 +7,7 @@ namespace GitMvcCore22.Models
 {
     public class AnotherClass
     {
-        List<int> list = new List<int>();
+        List<int> list1= new List<int>();
         public string newString { get; set; }
         public DateTime MyProperty { get; set; }
         public int number { get; set; }
